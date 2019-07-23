@@ -1,0 +1,106 @@
+// You can add CSS rules here that will be inlined into each document.
+
+
+$on-tablet: 768px;
+$on-phone: 400px;
+$emph-bkg-color: #d0d0d0 !default;
+
+
+body{
+    --body-bg: #efefef;
+    --body-color: #053b64;
+    --border-color: #053b64;
+}
+
+.sidebar-bg{
+    &.sidebar-overlay::after {
+	background: none;
+    }
+}
+
+h3, h4, h5, h6, .h3, .h4, .h5, .h6 { margin: 1rem 0 1rem; }
+
+h2, .h2 { margin: 3rem 0 1rem; }
+
+.content { padding: 3rem 1rem 10rem; }
+
+.bio-row {
+    @media all and (min-width: $on-phone){
+	display: flex;
+	flex-direction: column-reverse;
+	.bio-column-1 { text-align: center; }
+	.bio-column-2 { padding-bottom: 2em; }
+    }
+    @media all and (min-width: $on-tablet){
+	display: flex;
+	flex-direction: row;
+	.bio-column-1 { text-align: left; }
+    }
+
+    padding-top: 0;
+    border-bottom: 1px solid var(--border-color);
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.bio-column-1 {
+    flex: 1;
+}
+
+.bio-column-2 {
+    flex: 0 1 300px;
+}
+
+.bio-pic {
+    align: middle;
+    width: 250px;
+}
+
+
+button, .btn {
+    background: var(--body-bg);
+    border-style: solid;
+    color: var(--body-color);
+    border-color: var(--body-color);
+    font-style: normal;
+    transition: color 0.2s ease-in-out,
+      border-color 0.2s ease-in-out,
+      background 0.2s ease-in-out;
+    &:hover {
+	background: var(--body-color);
+	border-color: var(--body-color);
+	color: var(--body-bg);
+    }
+    font-size: .75em;
+    border-radius: none;
+    width: 6em;
+    text-decoration: none;
+}
+
+.btn-main {
+    border-color: #c63800;
+    color: #c63800;
+    &:hover {
+	background: #c63800;
+	border-color: #c63800;
+    }
+}
+
+
+.btn-secondary {
+    border-color: #00884e;
+    color: #00884e;
+    &:hover {
+	background: #00884e;
+	border-color: #00884e;
+    }
+}
+
+.btn-ternary {
+    border-color: #c67100;
+    color: #c67100;
+    &:hover {
+	background: #c67100;
+	border-color: #c67100;
+    }
+}
