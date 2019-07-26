@@ -33,6 +33,7 @@ node_modules
 # Jekyll
 _site
 .sass-cache
+Gemfile.lock
 
 # macOS
 .DS_Store

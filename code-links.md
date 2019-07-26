@@ -35,7 +35,7 @@ principal components analysis.
 ## Resources for R and basic analysis
 
 * [R for Data Science](http://r4ds.had.co.nz), a nice textbook from Hadley Wickham
-* [Happy Git with R](http://happygitwithr.com), good exposition on setting up and combining R and Git</li>
+* [Happy Git with R](http://happygitwithr.com), good exposition on setting up and combining R and Git
 * [Basic text mining in R](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)
 * [Fix common Github+R issues](http://ohi-science.org/manual/#rpostback-askpass-error), the dreaded rpostback askpass error
 * [ggplot2](http://ggplot2.tidyverse.org)

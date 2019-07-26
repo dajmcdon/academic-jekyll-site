@@ -30,7 +30,7 @@ demographics.
 
 ## Current courses
 
-### S771/S772/785 - Seminar on Statistical Theory ([Fa19--Sp20](https://github.com/stats-771fa2019))
+### S771/S772/785 - Seminar on Statistical Theory ([Fa19--Sp20](https://stats-ada-2019-20.github.io))
 
 ### S432 - Applied Linear Models II (Sp20)
 
@@ -101,7 +101,7 @@ to students coming from either statistics or informatics/computer
 science. I will make an effort to provide necessary background so
 that lectures are accessible to both populations.
 
-### Advanced Statistical Theory I (Fa12) (Fa14)
+### S721 - Advanced Statistical Theory I (Fa12) (Fa14)
 
 Mathematical introduction to major areas of probability theory
 and statistics including set theory and VC dimension, random
@@ -109,7 +109,7 @@ variables, distribution functions, expectations, exponential
 families, inequalities and concentration of measure, convergence,
 estimation theory.
 
-### Advanced Statistical Theory II (Sp13)
+### S722 - Advanced Statistical Theory II (Sp13)
 
 Mathematical introduction to major areas of statistical theory
 including hypothesis testing, confidence intervals, density
@@ -123,12 +123,11 @@ selection, and risk.
 
 ## At the Institute for New Economic Thinking
 
-### Short Course on Machine Learning (Sp13) (Sp15)
+### Short Course on Machine Learning ([Sp13](/teaching/inet2013.html)) [(Sp15)](/teaching/inet2015.html)
 
 As part of the Young Scholars Institute at the INET Hong Kong
 conference from April 2-3, 2013, Darren Homrighausen and I taught a
-course on statistical learning. I retaught the course in New York February 24-26, 2015. The slides, code, data, and other
-materials from that class are available at the links above. 
+course on statistical learning. I retaught the course in New York February 24-26, 2015. 
 
 ## At Carnegie Mellon University
 
