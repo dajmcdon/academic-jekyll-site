@@ -36,6 +36,21 @@ demographics.
 
 ### S352 - Intro to Statistical Modeling (Sp20)
 
+```r
+## preallocate a space to store the interval widths
+avg.widths = double(length(cors)) 
+## write a loop to calculate the average CI width for each value of cors
+# for(i in 1:length(cors)) avg.widths[i] = intervals(n, cors[i])
+avg.widths = sapply(cors, intervals, n=n) # alternatively
+## plot cors (x-axis) vs. average widths (y-axis)
+dat = data.frame(correlation=cors, avg.widths=avg.widths)
+library(ggplot2)
+ggplot(dat, aes(x=correlation,y=avg.widths)) + geom_point() + geom_path() +
+    scale_y_log10()
+```
+
+![](/assets/img/ci-widths.jpg){:.lead data-width="800"}
+
 
 ## Past courses at IUB
 

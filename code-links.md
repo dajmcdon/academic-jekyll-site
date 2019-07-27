@@ -49,4 +49,4 @@ principal components analysis.
 
 ## Color scheme for presentations etc.
 
-![colors](/assets/img/colors.png)
+![colors](/assets/img/colors.png){:.lead data-width="800"}
