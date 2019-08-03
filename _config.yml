@@ -46,8 +46,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-#  - title:             Biography
-#    url:               /
+  - title:             Biography
+    url:               /
   - title:             Publications
     url:               /publications/
   - title:             Research
