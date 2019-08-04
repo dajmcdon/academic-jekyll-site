@@ -14,10 +14,7 @@ title:                 Daniel J. McDonald
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:  >
-  Daniel J. McDonald  
-  Associate Professor of Statistics  
-  Indiana University, Bloomington
+description:  Associate Professor of Statistics  
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -226,6 +223,7 @@ exclude:
   - webpack.config.js
   - "*.gemspec"
   - _js
+  - _Rscripts
   - _plugins
   - .sass-cache
 include:
