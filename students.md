@@ -1,5 +1,5 @@
 ---
-title: "Research group"
+title: "Students"
 permalink: /students/
 students:
   - name: Lei Ding
@@ -18,6 +18,13 @@ alumni:
     degree: B.S. in Statistics (2018)
 ---
 
+1. [Research group](#research-group)
+2. [Applying to the statistics department](#applying-to-iu-statistics)
+3. [Requesting letters of recommendation](#requesting-letters-of-recommendation)
+4. [Scheduling a research meeting](#scheduling-research-meetings)
+
+# Research group
+
 ## Current members
 
 {% include students.html %}
@@ -32,7 +39,7 @@ I generally have no special powers when it comes to being admitted to M.S./Ph.D 
 
 If you want to learn more, your best bet is to email the student services specialist, [Kelly Hanna](https://stat.indiana.edu/about/staff/hanna-kelly.html). She can often answer your questions better than I or put you in touch with the appropriate faculty member.
 
-# Letters of recommendation
+# Requesting letters of recommendation
 
 I frequently get requests for letters of recommendation, and I'm generally happy to comply. However, if I taught you for one class two years ago, it is unlikely that I can provide useful information to a recruiter or admissions committee member. 
 

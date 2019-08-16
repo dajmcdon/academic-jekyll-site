@@ -45,12 +45,12 @@ author:
 menu:
   - title:             Biography
     url:               /
-  - title:             Publications
-    url:               /publications/
   - title:             Research
     url:               /research/
   - title:	       Teaching
     url:	       /teaching/
+  - title:             Students
+    url:               /students/
   - title:	       Code/Links
     url:	       /code-links/
 
