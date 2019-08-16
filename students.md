@@ -1,5 +1,5 @@
 ---
-title: "Students"
+title: "Information for Students"
 permalink: /students/
 students:
   - name: Lei Ding
@@ -27,11 +27,12 @@ alumni:
 
 ## Current members
 
-{% include students.html %}
+
+{% include photo-array.html members=page.students %}
 
 ## Alumni
 
-{% include alumni.html %}
+{% include photo-array.html members=page.alumni %}
 
 # Applying to IU Statistics
 
