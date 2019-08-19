@@ -5,6 +5,10 @@ students:
   - name: Lei Ding
     photo: leiding.png
     degree: Ph.D. in Statistics
+  - name: Mackenzie Turner
+    photo: mackenzie.jpg
+    degree: B.A. SPEA
+    position: CEW&T's Emerging Scholars REU
 alumni:
   - name: Jia Wang
     photo: jiawang.jpg
