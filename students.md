@@ -70,7 +70,7 @@ Given enough lead time, I'm happy to help you create or edit some of these mater
 I have found the following procedure tends to result in more productive meetings. If you would like to meet to discuss your project:
 
 1. Please, consult the calendar below.
-2. Send me a written document and a time to meet via [Slack](https://mcdonald-lab.slack.com/).
+2. Send me a written document and a time to meet via [Slack](https://mcdonald-lab.slack.com/).[^1]
 
 **Suggested best practices**
 
@@ -88,3 +88,6 @@ I have found the following procedure tends to result in more productive meetings
 ## Public calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23efefef&amp;ctz=America%2FIndiana%2FIndianapolis&amp;src=ZGFqbWNkb25AZ21haWwuY29t&amp;color=%233F51B5&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+
+
+[^1]: If you need to join, you can follow this [link](https://join.slack.com/t/mcdonald-lab/signup). Be sure to use your indiana.edu or iu.edu email account.
