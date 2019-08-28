@@ -19,7 +19,9 @@ alumni:
     degree: M.S. in Statistics (2018)
     position: Data Scientist at Advanced Microgrid Solutions
   - name: Michael McBride
+    photo: mmcbride.jpg
     degree: B.S. in Statistics (2018)
+    position: Software Developer at Epic
 ---
 
 1. [Research group](#research-group)
