@@ -5,6 +5,15 @@ students:
   - name: Lei Ding
     photo: leiding.png
     degree: Ph.D. in Statistics
+  - name: Robert Granger
+    photo: rob_granger.jpg
+    degree: Ph.D. Data Analysis Qualifier
+  - name: Aaron Cohen
+    photo: cohen_aaron.jpg
+    degree: Ph.D. Data Analysis Qualifier
+  - name: Haoran Liu
+    photo: liu-haoran.png
+    degree: M.S. in Statistics
   - name: Mackenzie Turner
     photo: mackenzie.jpg
     degree: B.A. SPEA
