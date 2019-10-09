@@ -65,6 +65,34 @@ h1:not(.page-title) {
     width: 264px;
 }
 
+// format recent news list
+.recent-news {
+    border-top: 1px solid var(--border-color);
+    padding-top: 0em;
+    margin-top: 5em;
+    padding-bottom: 0em;
+    dl {
+        display: flex;
+        flex-flow: row wrap;
+        padding-bottom: .5em;
+    }
+    dt {
+        flex-basis: 20%;
+        padding: 2px 4px;
+        text-align: right;
+        font-weight: bold;
+    }
+    dd {
+        flex-basis: 80%;
+        flex-grow: 1;
+        margin: 0;
+        padding: 2px 4px;
+	img {
+	    width: 25em;
+	}
+    }
+}
+
 // provide row for students
 
 .student-row {
