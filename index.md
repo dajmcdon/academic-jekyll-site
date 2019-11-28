@@ -12,6 +12,8 @@ address: |-
   812-855-7828
 bio-photo: assets/img/azul_historico_me.jpg
 newsitems:
+  - date: 2019 November
+    event: Talk on Chopin's Mazurka Op. 68 No. 3 at Simon Fraser University. Slides are viewable [here](https://dajmcdon.github.io/mazurka-talk-2019/chopin-talk-2019.html). 
   - date: 2019 August
     event: I gave an interview to Prof. Bruce Solomon for the [IU Mathematics Alumni Newsletter](https://math.indiana.edu/documents/newsletters/AlumniNewsletter2019.pdf).
   - date: 2019 August

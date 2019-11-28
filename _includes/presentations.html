@@ -5,12 +5,16 @@
       
       {% if pres.slides %}
         {% for slide in pres.slides %}
-          {% if forloop.length==1 %}
-            <a href="{{"/assets/research/talks/" | append: slide }}" target="_blank"> (slides)</a>
+          {% if slide contains "http" %}
+            {% capture sl %} {{ slide }} {% endcapture %}
           {% else %}
-            <a href="{{"/assets/research/talks/" | append: slide }}" target="_blank"> (slides v{{forloop.index}})</a>
+            {% capture sl %} {{"/assets/research/talks" | append: slide}} {% endcapture %}
           {% endif %}
-          
+          {% if forloop.length==1 %}
+            <a href="{{ sl }}" target="_blank"> (slides)</a>
+          {% else %}
+            <a href="{{ sl }}" target="_blank"> (slides v{{forloop.index}})</a>
+          {% endif %}
         {% endfor %}
       {% endif %}
       

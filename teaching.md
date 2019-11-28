@@ -29,11 +29,13 @@ demographics.
 
 ## Current courses
 
+### S100 - Statistical Literacy ([Sp20](https://iub-stat100.github.io))
+
+### S432 - Applied Linear Models II ([Sp20](https://stats-432sp2020.github.io))
+
 ### S771/S772/785 - Seminar on Statistical Theory ([Fa19--Sp20](https://stats-ada-2019-20.github.io))
 
-### S432 - Applied Linear Models II (Sp20)
 
-### S352 - Intro to Statistical Modeling (Sp20)
 
 ![](/assets/img/code.png){:.lead data-width="800"}
 

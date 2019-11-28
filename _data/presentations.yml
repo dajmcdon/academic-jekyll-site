@@ -1,4 +1,6 @@
-- title: Trend flitering in exponential families 
+- title: Markov switching state space models for uncovering musical interpretation
+  slides: https://dajmcdon.github.io/mazurka-talk-2019/chopin-talk-2019.html
+- title: Trend flitering in exponential families
   slides: ExpFamTF.pdf
 - title: Algorithms for Estimating Trends in Global Temperature Volatility     
   poster: volatilityAAAIposter.pdf
