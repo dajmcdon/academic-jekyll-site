@@ -2,8 +2,8 @@
   slides: https://dajmcdon.github.io/mazurka-talk-2019/chopin-talk-2019.html
 - title: Trend filtering in exponential families
   slides:
+    - ExpFam-research-169.pdf
     - ExpFamTF.pdf
-    - ExpFamTF-169.pdf
 - title: Algorithms for Estimating Trends in Global Temperature Volatility     
   poster: volatilityAAAIposter.pdf
 - title: "Regularization, optimization, and approximation: The benefits of a convex combination"

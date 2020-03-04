@@ -8,7 +8,7 @@
           {% if slide contains "http" %}
             {% capture sl %} {{ slide }} {% endcapture %}
           {% else %}
-            {% capture sl %} {{"/assets/research/talks" | append: slide}} {% endcapture %}
+            {% capture sl %} {{"/assets/research/talks/" | append: slide}} {% endcapture %}
           {% endif %}
           {% if forloop.length==1 %}
             <a href="{{ sl }}" target="_blank"> (slides)</a>
