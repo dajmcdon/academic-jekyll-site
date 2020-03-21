@@ -2,9 +2,6 @@
 title: "Information for Students"
 permalink: /students/
 students:
-  - name: Lei Ding
-    photo: leiding.png
-    degree: Ph.D. in Statistics
   - name: Robert Granger
     photo: rob_granger.jpg
     degree: Ph.D. Data Analysis Qualifier
@@ -19,17 +16,21 @@ students:
     degree: B.A. SPEA
     position: CEW&T's Emerging Scholars REU
 alumni:
+  - name: Lei Ding
+    photo: leiding.png
+    degree: Ph.D. in Statistics (IUB 2020)
+    position: Data Scientist at Amazon
   - name: Jia Wang
     photo: jiawang.jpg
-    degree: M.S. in Statistics (2017)
+    degree: M.S. in Statistics (IUB 2017)
     position: Ph.D. student in Biostatistics at SUNY Buffalo
   - name: Arash Khodadadi
     photo: arash.jpg
-    degree: M.S. in Statistics (2018)
+    degree: M.S. in Statistics (IUB 2018)
     position: Data Scientist at Advanced Microgrid Solutions
   - name: Michael McBride
     photo: mmcbride.jpg
-    degree: B.S. in Statistics (2018)
+    degree: B.S. in Statistics (IUB2018)
     position: Software Developer at Epic
 ---
 

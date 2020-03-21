@@ -78,13 +78,13 @@ copyright: Daniel J. McDonald © 2019. All rights reserved.
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          rgb(5,59,100) # rgb(0,136,78) #/assets/img/sidebar-bg.jpg
-accent_color:          rgb(5,59,100) # rgb(0,136,78)
+accent_image:          rgb(4,30,66) # rgb(0,136,78) #/assets/img/sidebar-bg.jpg
+accent_color:          rgb(4,30,66) # rgb(0,136,78)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(5,59,100) #rgb(0,136,78)
+theme_color:           rgb(4,30,66) #rgb(0,136,78)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
