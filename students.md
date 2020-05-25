@@ -11,27 +11,28 @@ students:
   - name: Haoran Liu
     photo: liu-haoran.png
     degree: M.S. in Statistics
-  - name: Mackenzie Turner
-    photo: mackenzie.jpg
-    degree: B.A. SPEA
-    position: CEW&T's Emerging Scholars REU
 alumni:
   - name: Lei Ding
     photo: leiding.png
     degree: Ph.D. in Statistics (IUB 2020)
     position: Data Scientist at Amazon
-  - name: Jia Wang
-    photo: jiawang.jpg
-    degree: M.S. in Statistics (IUB 2017)
-    position: Ph.D. student in Biostatistics at SUNY Buffalo
   - name: Arash Khodadadi
     photo: arash.jpg
     degree: M.S. in Statistics (IUB 2018)
     position: Data Scientist at Advanced Microgrid Solutions
+  - name: Jia Wang
+    photo: jiawang.jpg
+    degree: M.S. in Statistics (IUB 2017)
+    position: Ph.D. student in Biostatistics at SUNY Buffalo
   - name: Michael McBride
     photo: mmcbride.jpg
-    degree: B.S. in Statistics (IUB2018)
+    degree: B.S. in Statistics (IUB 2018)
     position: Software Developer at Epic
+  - name: Mackenzie Turner
+    photo: mackenzie.jpg
+    degree: B.A. SPEA 
+    position: IUB CEW&T's Emerging Scholars REU
+
 ---
 
 1. [Research group](#research-group)

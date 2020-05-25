@@ -27,13 +27,11 @@ resources, cultural capital, and training as more privileged
 demographics.      
 
 
-## Current courses
+## Future courses
 
-### S100 - Statistical Literacy ([Sp20](https://iub-stat100.github.io))
+### STAT 406 Methods for Statistical Learning
 
-### S432 - Applied Linear Models II ([Sp20](https://stats-432sp2020.github.io))
-
-### S771/S772/785 - Seminar on Statistical Theory ([Fa19--Sp20](https://stats-ada-2019-20.github.io))
+### STAT 547 Topics in Statistics
 
 
 
@@ -42,98 +40,25 @@ demographics.
 ![](/assets/img/ci-widths.jpg){:.lead data-width="800"}
 
 
-## Past courses at IUB
+# Links to materials from old courses
 
-### S432 - Applied Linear Models II (Sp16) ([Sp17](https://github.com/STATS-432Sp2017)) ([Sp18](https://stats-432sp2018.github.io/))
+### At Indiana University, Bloomington
 
-This is a course in advanced data analysis. Based on the theory of
-linear models covered in S431, this course will focus on applying many
-types of data analysis methods to interesting datasets. The focus will
-be dealing with and describing data rather than on particular methods
-per se.
+* S100 Statistical Literacy ([Sp20](https://iub-stat100.github.io))
 
-The course combines analysis with methodology and
-computational aspects. It treats both the "art" of understanding
-unfamiliar data and the "science" of analyzing that data in terms of
-statistical properties. The focus will be on practical aspects of methodology and intuition
-to help students develop tools for selecting appropriate methods and
-approaches to problems in their own lives. 
+* S432 Applied Linear Models II (Sp16) ([Sp17](https://github.com/STATS-432Sp2017)) ([Sp18](https://stats-432sp2018.github.io/))([Sp20](https://stats-432sp2020.github.io))
 
-I expect that the material should be appropriate and interesting to
-students coming from either statistics or informatics/computer
-science. I will make an effort to provide necessary background so that
-lectures are accessible to both populations.
 
-### S782 - Topics in Statistical Learning Theory ([Fa17](https://github.com/stats-782fa2017))
+* S771/S772/785 Seminar on Statistical Theory ([Fa16](https://github.iu.edu/dajmcdon/s771)) ([Sp17](https://github.iu.edu/dajmcdon/s771))([Fa19--Sp20](https://stats-ada-2019-20.github.io))
 
-Statistical learning theory is a burgeoning research field at the
-intersection of probability, statistics, computer science, and
-optimization that studies the performance of computer algorithms for
-making predictions on the basis of training data.
+* S782 Topics in Statistical Learning Theory ([Fa17](https://github.com/stats-782fa2017))
 
-The following topics will be covered: basics of statistical decision
-theory; concentration inequalities; supervised and unsupervised
-learning; empirical risk minimization; complexity-regularized
-estimation; generalization bounds for learning algorithms; VC
-dimension and Rademacher complexities; minimax lower bounds; online
-learning and optimization.
 
-Along with the general theory, we will
-discuss a number of applications of statistical learning theory to
-signal processing, information theory, and adaptive control.
 
-### S771/S772/785 - Seminar on Statistical Theory ([Fa16](https://github.iu.edu/dajmcdon/s771)) ([Sp17](https://github.iu.edu/dajmcdon/s771))
+### At the University of Chicago, Booth School of Business
 
-This course is intended to  help Statistics Ph.D. students learn
-to read academic literature, write statistical papers, and present
-their findings orally. It is a required course leading to the data
-analysis qualifying exam, and is generally open only to statistics
-students.
+* 41-911 Advanced Econometrics ([Aut18](https://booth41911.github.io))
 
-### S301 - Introduction to Business Statistics (Fa13) (Sp14) (Fa14)
+### At the Institute for New Economic Thinking
 
-### S682 - Topics in Mathematical Statistics: Machine Learning (Sp14)
-
-The course includes topics in statistical theory that are now
-becoming important for researchers in machine learning, including
-consistency, minimax estimation, and concentration of measure. It
-also presents topics in computation including elements of convex
-optimization, variational methods, randomized projection algorithms,
-and techniques for handling large data sets.
-
-I expect that the material should be appropriate and interesting
-to students coming from either statistics or informatics/computer
-science. I will make an effort to provide necessary background so
-that lectures are accessible to both populations.
-
-### S721 - Advanced Statistical Theory I (Fa12) (Fa14)
-
-Mathematical introduction to major areas of probability theory
-and statistics including set theory and VC dimension, random
-variables, distribution functions, expectations, exponential
-families, inequalities and concentration of measure, convergence,
-estimation theory.
-
-### S722 - Advanced Statistical Theory II (Sp13)
-
-Mathematical introduction to major areas of statistical theory
-including hypothesis testing, confidence intervals, density
-estimation, nonparametric regression, classification, and
-prediction, with special emphasis on minimaxity, tuning parameter
-selection, and risk.
-
-## At the University of Chicago, Booth School of Business
-
-### 41-911 Advanced Econometrics ([Aut18](https://booth41911.github.io))
-
-## At the Institute for New Economic Thinking
-
-### Short Course on Machine Learning ([Sp13](/teaching/inet2013.html)) [(Sp15)](/teaching/inet2015.html)
-
-As part of the Young Scholars Institute at the INET Hong Kong
-conference from April 2-3, 2013, Darren Homrighausen and I taught a
-course on statistical learning. I retaught the course in New York February 24-26, 2015. 
-
-## At Carnegie Mellon University
-
-### 36-226 Introduction to Probability and Statistics II (Su09) (Su10) 
+* Short Course on Machine Learning ([Sp13](/teaching/inet2013.html)) [(Sp15)](/teaching/inet2015.html) --- As part of the Young Scholars Institute at the INET Hong Kong conference from 2--3 April 2013, Darren Homrighausen and I taught a course on statistical learning. I retaught the course in New York, 24--26 February 2015. 

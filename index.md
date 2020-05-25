@@ -2,16 +2,23 @@
 layout: page
 cover: false
 position: |-
-  Associate Professor of [Statistics](http://www.stat.indiana.edu)<br>
-  Adjunct Associate Professor of [Computer Science](http://www.cs.indiana.edu)<br>
-  [Indiana University, Bloomington](http://www.iub.edu/)
+  Associate Professor<br>
+  [Department of Statistics](http://www.stat.ubc.ca)<br>
+  [University of British Columbia](http://www.ubc.ca/)
 address: |-
   **Office:**<br>
-  Myles Brand Hall E210C<br>
-  Bloomington, IN 47405<br>
-  812-855-7828
+  Earth Sciences Building<br>
+  2207 Main Mall<br>
+  Vancouver, BC Canada V6T 1Z4<br>
+  604 822 0570
 bio-photo: assets/img/azul_historico_me.jpg
 newsitems:
+  - date: 2020 July 
+    event: After a lengthy process, I've left Indiana University to join [Tamara Mitchell](https://tamaraleemitchell.github.io) at UBC. I'm ecstatic to join a fantastic department with many wonderful new colleagues, but I'll be sad to say good bye to many others. If you're facing academic partner issues and are interested in my thoughts, drop me a line.  
+  - date: 2020 February 
+    event: Dr. Lei Ding defended her dissertation! She's moved on to Amazon in Seattle. 
+  - date: 2020 January
+    event: A few Canadian talks at UBC and SFU on [Trend Filtering in Exponential Families](https://dajmcdon.github.io/assets/research/talks/ExpFam-research-169.pdf).
   - date: 2019 November
     event: Talk on Chopin's Mazurka Op. 68 No. 3 at Simon Fraser University. Slides are viewable [here](https://dajmcdon.github.io/mazurka-talk-2019/chopin-talk-2019.html). 
   - date: 2019 August
@@ -19,14 +26,6 @@ newsitems:
   - date: 2019 August
     event: At JSM 2019, I agreed to play basketball with Rob and Ryan Tibshirani and [Dave Zhao](https://publish.illinois.edu/sdzhao/). Dave tried valiantly to make up for my lack of skills, but our team was no match for the Tibshiranis. We did make the cover of the 2019 October issue of [AMSTATNEWS](https://magazine.amstat.org/wp-content/uploads/2019/09/October-Amstat-News.pdf).
     photo: /assets/img/basketball.jpg
-  - date: 2019 July
-    event: Manuscript on "Compressed and penalized linear regression" accepted at _JCGS_.
-  - date: 2019 May
-    event: Lei Ding successfully defended her dissertation proposal.
-  - date: 2019 May
-    event: I gave a talk on [Trend Filtering](/assets/research/talks/ExpFamTF.pdf) at the TTIC/UChicago CS Machine Learning Seminar.
-  - date: 2019 May
-    event: Preprint of my project on [Musical expression with switching Kalman filters](https://arxiv.org/abs/1907.06244) is available.
 ---
 
 {% include cover-array.html %}
@@ -34,8 +33,7 @@ newsitems:
 
 ## Biography 
 
-Daniel McDonald is Associate Professor of Statistics and Adjunct Associate Professor of Computer
-Science at Indiana University, Bloomington. His research interests involve the estimation and
+Daniel McDonald is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving north, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and
 quantification of prediction risk, especially developing methods for evaluating the predictive
 abilities of complex dependent data. This includes the application of statistical learning
 techniques to time series prediction problems in the context of economic forcasting, as well as
