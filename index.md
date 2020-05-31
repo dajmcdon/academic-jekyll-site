@@ -38,7 +38,7 @@ newsitems:
 Daniel McDonald is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving north, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and
 quantification of prediction risk, especially developing methods for evaluating the predictive
 abilities of complex dependent data. This includes the application of statistical learning
-techniques to time series prediction problems in the context of economic forcasting, as well as
+techniques to time series prediction problems in the context of economic forecasting, as well as
 investigations of cross-validation and the bootstrap for risk estimation.
 
 
