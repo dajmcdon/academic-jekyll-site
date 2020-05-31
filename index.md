@@ -4,17 +4,19 @@ cover: false
 position: |-
   Associate Professor<br>
   [Department of Statistics](http://www.stat.ubc.ca)<br>
-  [University of British Columbia](http://www.ubc.ca/)
+  [University of British Columbia](http://www.ubc.ca/)<br>
+  <br>
 address: |-
   **Office:**<br>
   Earth Sciences Building<br>
   2207 Main Mall<br>
   Vancouver, BC Canada V6T 1Z4<br>
   604 822 0570
-bio-photo: assets/img/azul_historico_me.jpg
+bio-photo: /assets/img/GaribaldiHike.jpeg
 newsitems:
   - date: 2020 July 
-    event: After a lengthy process, I've left Indiana University to join [Tamara Mitchell](https://tamaraleemitchell.github.io) at UBC. I'm ecstatic to join a fantastic department with many wonderful new colleagues, but I'll be sad to say good bye to many others. If you're facing academic partner issues and are interested in my thoughts, drop me a line.  
+    event: After a lengthy process, I've left Indiana University to join [Tamara Mitchell](https://tamaraleemitchell.github.io) at UBC. I'm ecstatic to join a fantastic department with many wonderful new colleagues, but I'll be sad to say good bye to many others. If you're facing academic partner issues and are interested in my thoughts, drop me a line.
+    photo: /assets/img/UBC-news.jpeg
   - date: 2020 February 
     event: Dr. Lei Ding defended her dissertation! She's moved on to Amazon in Seattle. 
   - date: 2020 January

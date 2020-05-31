@@ -54,6 +54,9 @@ h1:not(.page-title) {
 
 .bio-column-1 {
     flex: 1;
+    align: middle;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .bio-column-2 {
@@ -61,8 +64,12 @@ h1:not(.page-title) {
 }
 
 .bio-pic {
+    justify-content: left;
     align: middle;
-    width: 264px;
+    max-width: 270px;
+    max-height: 360px;
+    width: auto;
+    height: auto;
 }
 
 // format recent news list
