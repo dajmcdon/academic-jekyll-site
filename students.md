@@ -8,31 +8,31 @@ students:
   - name: Aaron Cohen
     photo: cohen_aaron.jpg
     degree: Ph.D. Data Analysis Qualifier
-  - name: Haoran Liu
-    photo: liu-haoran.png
-    degree: M.S. in Statistics
 alumni:
   - name: Lei Ding
     photo: leiding.png
     degree: Ph.D. in Statistics (IUB 2020)
     position: Data Scientist at Amazon
-  - name: Arash Khodadadi
-    photo: arash.jpg
-    degree: M.S. in Statistics (IUB 2018)
-    position: Data Scientist at Advanced Microgrid Solutions
-  - name: Jia Wang
-    photo: jiawang.jpg
-    degree: M.S. in Statistics (IUB 2017)
-    position: Ph.D. student in Biostatistics at SUNY Buffalo
-  - name: Michael McBride
-    photo: mmcbride.jpg
-    degree: B.S. in Statistics (IUB 2018)
-    position: Software Developer at Epic
+  - name: Haoran Liu
+    photo: liu-haoran.png
+    degree: M.S. in Statistics (IUB 2020)
+    position: Ph.D. student in Statistics at IUB
   - name: Mackenzie Turner
     photo: mackenzie.jpg
     degree: B.A. SPEA 
     position: IUB CEW&T's Emerging Scholars REU
-
+  - name: Arash Khodadadi
+    photo: arash.jpg
+    degree: M.S. in Statistics (IUB 2018)
+    position: Data Scientist at Advanced Microgrid Solutions
+  - name: Michael McBride
+    photo: mmcbride.jpg
+    degree: B.S. in Statistics (IUB 2018)
+    position: Software Developer at Epic
+  - name: Jia Wang
+    photo: jiawang.jpg
+    degree: M.S. in Statistics (IUB 2017)
+    position: Ph.D. student in Biostatistics at SUNY Buffalo
 ---
 
 1. [Research group](#research-group)
@@ -51,11 +51,13 @@ alumni:
 
 {% include photo-array.html members=page.alumni %}
 
+<!--
 # Applying to IU Statistics
 
 I generally have no special powers when it comes to being admitted to M.S./Ph.D programs. At IU, Ph.D. students are admitted to the department with funding before choosing an advisor later in their program. If you are interested, I encourage you to apply to the program via the [department website](https://stat.indiana.edu/graduates/degrees/phd-statistical-science.html). 
 
 If you want to learn more, your best bet is to email the student services specialist, [Kelly Hanna](https://stat.indiana.edu/about/staff/hanna-kelly.html). She can often answer your questions better than I or put you in touch with the appropriate faculty member.
+-->
 
 # Requesting letters of recommendation
 
@@ -83,7 +85,7 @@ Given enough lead time, I'm happy to help you create or edit some of these mater
 I have found the following procedure tends to result in more productive meetings. If you would like to meet to discuss your project:
 
 1. Please, consult the calendar below.
-2. Send me a written document and a time to meet via [Slack](https://mcdonald-lab.slack.com/).[^1]
+2. Send me a written document and a time to meet via [Slack](https://mcdonald-lab.slack.com/).
 
 **Suggested best practices**
 
@@ -100,7 +102,4 @@ I have found the following procedure tends to result in more productive meetings
 
 ## Public calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23efefef&amp;ctz=America%2FIndiana%2FIndianapolis&amp;src=ZGFqbWNkb25AZ21haWwuY29t&amp;color=%233F51B5&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
-
-
-[^1]: If you need to join, you can follow this [link](https://join.slack.com/t/mcdonald-lab/signup). Be sure to use your indiana.edu or iu.edu email account.
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23efefef&amp;ctz=America%2FVancouver&amp;src=ZGFqbWNkb25AZ21haWwuY29t&amp;color=%233F51B5&amp;mode=WEEK&amp;showTitle=0&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
