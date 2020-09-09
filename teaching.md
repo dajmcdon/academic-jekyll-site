@@ -27,11 +27,13 @@ resources, cultural capital, and training as more privileged
 demographics.      
 
 
-## Future courses
+## Current courses
 
-### STAT 406 Methods for Statistical Learning
+### Stat 406 Methods for Statistical Learning ([W1-2020](https://ubc-stat.github.io/stat-406/))
 
-### STAT 547 Topics in Statistics
+### Stat 535  Topics in Statistics ([W2-2020](./))
+
+### Stat 548 PhD Qualifying [Papers](stat548.html)
 
 
 
