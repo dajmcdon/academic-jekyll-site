@@ -2,9 +2,6 @@
 title: "Information for Students"
 permalink: /students/
 students:
-  - name: Robert Granger
-    photo: rob_granger.jpg
-    degree: Ph.D. Data Analysis Qualifier
   - name: Aaron Cohen
     photo: cohen_aaron.jpg
     degree: Ph.D. Data Analysis Qualifier
@@ -33,6 +30,9 @@ alumni:
     photo: jiawang.jpg
     degree: M.S. in Statistics (IUB 2017)
     position: Ph.D. student in Biostatistics at SUNY Buffalo
+  - name: Robert Granger
+    photo: rob_granger.jpg
+    degree: Ph.D. Data Analysis Qualifier
 ---
 
 1. [Research group](#research-group)
@@ -51,13 +51,13 @@ alumni:
 
 {% include photo-array.html members=page.alumni %}
 
-<!--
-# Applying to IU Statistics
 
-I generally have no special powers when it comes to being admitted to M.S./Ph.D programs. At IU, Ph.D. students are admitted to the department with funding before choosing an advisor later in their program. If you are interested, I encourage you to apply to the program via the [department website](https://stat.indiana.edu/graduates/degrees/phd-statistical-science.html). 
+# Applying to UBC Statistics or MDS Programs
 
-If you want to learn more, your best bet is to email the student services specialist, [Kelly Hanna](https://stat.indiana.edu/about/staff/hanna-kelly.html). She can often answer your questions better than I or put you in touch with the appropriate faculty member.
--->
+I generally have no special powers when it comes to being admitted to MSc/PhD or MDS programs. At UBC, students are admitted to the department before choosing an advisor later in their program. If you are interested, I encourage you to consult the [department website](https://www.stat.ubc.ca/graduate). 
+
+If you want to learn more, your best bet is to email the [Graduate Admissions Officer](mailto:admiss@stat.ubc.ca). 
+
 
 # Requesting letters of recommendation
 
@@ -76,16 +76,16 @@ In order for me to write, I will need at least **two** weeks notice before the f
     5. What makes me particularly qualified to write a letter for you?
     6. What makes you particularly qualified for these positions?
     7. What are your long-term goals?
-    8. If you are a Ph.D. student, give me a brief synopsis of your thesis work (the abstract is fine). What have you accomplished since you proposed? What is the motivation for your work? Where do you see this work going? Any target applications?
+    8. If you are a PhD student, give me a brief synopsis of your thesis work (the abstract is fine). What have you accomplished since you proposed? What is the motivation for your work? Where do you see this work going? Any target applications?
     
-Given enough lead time, I'm happy to help you create or edit some of these materials. Even if time is short, I'll do my best, but I strongly recommend taking advantage of [university resources](https://sice.indiana.edu/career-services/services.html). 
+Given enough lead time, I'm happy to help you create or edit some of these materials. Even if time is short, I'll do my best, but I strongly recommend taking advantage of [university resources](https://students.ubc.ca/career). 
 
 # Scheduling research meetings
 
 I have found the following procedure tends to result in more productive meetings. If you would like to meet to discuss your project:
 
 1. Please, consult the calendar below.
-2. Send me a written document and a time to meet via [Slack](https://mcdonald-lab.slack.com/).
+2. Send me a written document and a time to meet via [Slack](https://ubc-stat.slack.com/).
 
 **Suggested best practices**
 
