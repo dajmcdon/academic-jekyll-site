@@ -70,9 +70,9 @@ _Project:_ Implement Nick's algorithm for general losses. Compare it with the ex
 _Themes:_ risk estimation, stat theory  
 _Project:_ Compare and contrast methods of risk estimation for L1-regularized logistic regression. It's likely that reference [45] will be important, but ask me which parts.
 
-4. Suggala, Prasad, Ravikumar. [Connecting Optimization and Regularization Paths](https://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths.pdf)  
-_Themes:_ optimization, regularization, linear models  
-_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?
+4. ~~Suggala, Prasad, Ravikumar. [Connecting Optimization and Regularization Paths](https://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths.pdf)~~  
+~~_Themes:_ optimization, regularization, linear models~~  
+~~_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?~~
 
 5. Schiavi, ..., Daducci. [A new method for accurate in vivo mapping of human brain connections using microstructural and anatomical information](https://advances.sciencemag.org/content/6/31/eaba8245.full)  
 _Themes:_ neuroscience, optimization, regularization, linear models  
