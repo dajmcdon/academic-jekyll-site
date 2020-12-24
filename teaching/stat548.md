@@ -62,9 +62,9 @@ Some resources on technical/mathematical writing:
 _Themes:_ Algorithms, time series, prediction  
 _Project:_ any 1 of the 3 future work ideas described in the discussion section
 
-2. Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)  
-_Themes:_ Algorithms, time series, trend filtering  
-_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.
+2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
+~~_Themes:_ Algorithms, time series, trend filtering~~  
+~~_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.~~
 
 3. Deledalle. [Estimation of Kullback-Leibler losses for noisy recovery problems within the exponential family](https://projecteuclid.org/euclid.ejs/1503972028)  
 _Themes:_ risk estimation, stat theory  
