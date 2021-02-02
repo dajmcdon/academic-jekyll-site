@@ -8,7 +8,7 @@ position: |-
   <br>
 address: |-
   **Office:**<br>
-  Earth Sciences Building<br>
+  3106 Earth Sciences Building<br>
   2207 Main Mall<br>
   Vancouver, BC Canada V6T 1Z4<br>
   604 822 0570

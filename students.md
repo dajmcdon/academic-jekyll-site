@@ -65,6 +65,8 @@ I frequently get requests for letters of recommendation, and I'm generally happy
 
 In order for me to write, I will need at least **two** weeks notice before the first deadline. I will also ask you to provide some information. I've found that this really helps me to write convincing letters.
 
+Finally, I only agree to write a fixed number of letters per year for students who take courses with me. This is to be fair to you. Sending letters for many students to the same programs dilutes the impact of my letter with admissions committees. This is another reason that I encourage you to ask early. This limit does not apply to PhD students or other students doing research projects under my supervision.
+
 * A list of all (or as many as you currently know) positions to which you are applying along with deadlines and some idea of how the letter gets there. (Do I email someone or does some system ask me to upload things in an automated fashion?)
 * A recent CV or resume.
 * A personal statement or cover letter (likely the one you're sending in one of the applications)
