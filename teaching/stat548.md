@@ -58,9 +58,9 @@ Some resources on technical/mathematical writing:
 
 ## Available papers
 
-1. Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)  
-_Themes:_ Algorithms, time series, prediction  
-_Project:_ any 1 of the 3 future work ideas described in the discussion section
+1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
+~~_Themes:_ Algorithms, time series, prediction~~  
+~~_Project:_ any 1 of the 3 future work ideas described in the discussion section~~
 
 2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
 ~~_Themes:_ Algorithms, time series, trend filtering~~  
